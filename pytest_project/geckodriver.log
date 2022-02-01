@@ -1,0 +1,16 @@
+1643718595967	geckodriver	INFO	Listening on 127.0.0.1:51114
+1643718596477	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51115" "-foreground" "-no-remote" "-profile" "/var/folders/lx/67pvlc116gbf56j2hzsx8bgc0000gn/T/rust_mozprofilelUauM7"
+2022-02-01 18:00:01.113 firefox-bin[94042:3826882] Warning: Expected min height of view: (<NSButton: 0x11c53b800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-01 18:00:01.113 firefox-bin[94042:3826882] Warning: Expected min height of view: (<NSButton: 0x128f7a800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-01 18:00:01.113 firefox-bin[94042:3826882] Warning: Expected min height of view: (<NSButton: 0x128f7a000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-01 18:00:01.114 firefox-bin[94042:3826882] Warning: Expected min height of view: (<NSButton: 0x128f79400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-01 18:00:01.115 firefox-bin[94042:3826882] Warning: Expected min height of view: (<NSButton: 0x128f80c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-01 18:00:01.115 firefox-bin[94042:3826882] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x128f80800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-01 18:00:01.116 firefox-bin[94042:3826882] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1293d9000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+DevTools listening on ws://localhost:51115/devtools/browser/08d91976-b8f3-4b30-9462-ffcf56f2e808
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
