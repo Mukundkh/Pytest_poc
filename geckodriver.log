@@ -1,0 +1,12 @@
+1643708634171	geckodriver	INFO	Listening on 127.0.0.1:49779
+1643708634631	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49780" "-foreground" "-no-remote" "-profile" "/var/folders/lx/67pvlc116gbf56j2hzsx8bgc0000gn/T/rust_mozprofilegFBoEJ"
+2022-02-01 15:14:00.696 firefox-bin[91602:3712530] Warning: Expected min height of view: (<NSButton: 0x11fdcd400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-01 15:14:00.697 firefox-bin[91602:3712530] Warning: Expected min height of view: (<NSButton: 0x138f15000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-01 15:14:00.698 firefox-bin[91602:3712530] Warning: Expected min height of view: (<NSButton: 0x138f15400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-01 15:14:00.698 firefox-bin[91602:3712530] Warning: Expected min height of view: (<NSButton: 0x138f15800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-01 15:14:00.699 firefox-bin[91602:3712530] Warning: Expected min height of view: (<NSButton: 0x138f16800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-01 15:14:00.699 firefox-bin[91602:3712530] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x138f19800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-02-01 15:14:00.700 firefox-bin[91602:3712530] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x138f4b400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

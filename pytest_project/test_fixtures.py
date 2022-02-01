@@ -24,10 +24,16 @@ def init_driver():
     print("---------teardown----------")
     driver.quit()
 
-#some test cases 
-def test_google_title(init_driver):
+"""
+if we don't want to use fixture name as an arguement inside the method
+then we can directly declare an annotation above the required function 
+
+"""
+@pytest.mark.usefixtures("init_driver")
+def test_google_title():
     assert driver.title == 'Google'
 
+@pytest.mark.usefixtures()
 def test_google_url(init_driver):
     assert driver.current_url == 'https://www.google.com/?gws_rd=ssl'
 
